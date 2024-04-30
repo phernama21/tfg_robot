@@ -29,7 +29,7 @@ sudo pip3 install transforms3d
 ```
 Open the .bashrc file and verify to source to the proper workspace:
 ```shell
-source /home/user/rUBot_mecanum_ws_/devel/setup.bash
+source /home/user/tfg_robot/devel/setup.bash
 ```
 change the path corresponding to your ws
 
